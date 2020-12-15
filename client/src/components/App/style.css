@@ -1,0 +1,32 @@
+h1 {
+  color: #27aedb;
+  text-align: center;
+}
+
+button {
+  color: #27aedb;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+
+#main {
+  width: 30%;
+  margin: auto;
+  margin-top: 5%;
+  padding: 1rem;
+  background-color: #dce5e8;
+  box-shadow: 0px 0px 4px 0px rgba(50, 50, 50, 0.75);
+}
+
+.heading {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  color: coral;
+  margin: auto;
+  text-align: center;
+}

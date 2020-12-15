@@ -1,0 +1,11 @@
+.buttons {
+  /* border: 2px solid red; */
+  width: 40%;
+  padding: 0.8rem;
+}
+
+.edit,
+.delete {
+  margin-left: 4px;
+  font-size: 90%;
+}
